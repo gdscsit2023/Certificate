@@ -1,0 +1,30 @@
+[
+    {
+      "Student Name": "Rajath",
+      "Student Email": "rajath@gmail.com",
+      "Institution": "Srinivas Institute of Technology - Manglore",
+      "Enrolment Date & Time": "Sun Sep 24 2023 01:04:06 GMT+0530 (GMT+05:30)",
+      "Enrolment Status": "All Good",
+      "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d4bed80a-ccb3-4450-870b-ace3ef9d8598",
+      "# of Courses Completed": 4,
+      "# of Skill Badges Completed": 4,
+      "# of GenAI Game Completed": 1,
+      "Total Completions of both Pathways": "Yes",
+      "Redemption Status": "Yes"
+    },
+
+    {
+      "Student Name": "Rajath Achari",
+      "Student Email": "rajathaa@gmail.com",
+      "Institution": "PES College of Engineering - Aurangabad",
+      "Enrolment Date & Time": "Sun Sep 24 2023 01:04:06 GMT+0530 (GMT+05:30)",
+      "Enrolment Status": "All Good",
+      "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/d4bed80a-ccb3-4450-870b-ace3ef9d8598",
+      "# of Courses Completed": 4,
+      "# of Skill Badges Completed": 4,
+      "# of GenAI Game Completed": 0,
+      "Total Completions of both Pathways": "Yes",
+      "Redemption Status": "Yes"
+    }
+   
+  ]
