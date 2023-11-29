@@ -114,8 +114,8 @@ if (idMatch) {
 
   // Embed the QR code image on the PDF
   const qrCodeImage = await pdfDoc.embedPng(qrCodeImageData);
-  const qrCodeWidth = 80; // Set the width of the QR code image
-  const qrCodeHeight = 80; // Set the height of the QR code image
+  const qrCodeWidth = 70; // Set the width of the QR code image
+  const qrCodeHeight = 70; // Set the height of the QR code image
   const qrCodeX = pageWidth - qrCodeWidth - 45; // Adjust the position
   const qrCodeY = 80; // Adjust the position
   firstPage.drawImage(qrCodeImage, {
